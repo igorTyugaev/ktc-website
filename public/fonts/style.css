@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "SuisseIntl";
+    src: url("SuisseIntl-Light.woff2") format("woff2"),
+    url("SuisseIntl-Light.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SuisseIntl";
+    src: url("SuisseIntl-Medium.woff2") format("woff2"),
+    url("SuisseIntl-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+}

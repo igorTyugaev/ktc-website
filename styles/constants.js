@@ -12,8 +12,7 @@ export const colors = {
 }
 
 export const fontFamilies = {
-  mainFont: '"Steelfish", Arial, sans-serif',
-  subFont: '"HelveticaNeue", Arial, sans-serif',
+  mainFont: 'SuisseIntl, Arial, sans-serif',
 }
 
 export const namesOfBreakpoints = {

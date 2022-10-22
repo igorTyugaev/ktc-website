@@ -24,7 +24,9 @@ export default class AppDocument extends Document {
     render() {
         return (
             <Html>
-                <Head />
+                <Head>
+                    <link href="/fonts/style.css" rel="stylesheet" />
+                </Head>
                 <body>
                 <Main />
                 <NextScript />
